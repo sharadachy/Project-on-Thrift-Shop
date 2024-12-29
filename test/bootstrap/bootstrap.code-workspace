@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../css"
+		},
+		{
+			"path": "../Database"
+		},
+		{
+			"path": "../img"
+		},
+		{
+			"path": "../LifestyleStore"
+		},
+		{
+			"path": "../nbproject"
+		},
+		{
+			"path": "../Screenshots"
+		}
+	]
+}
